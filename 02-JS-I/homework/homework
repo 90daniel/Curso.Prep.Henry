@@ -1,0 +1,5 @@
+* Variables: Se utilizan para asignar un espacio en memoria para luego poder llamarlas según su valor establecido.
+* Strings: Son cadenas, del tipo texto. Se escriben entre comillas simples.
+* Funciones (argumentos, `return`): Las funciones se pueden reutilizar, y devuelven un único resultado mediante la palabra return. Una vez que se utiliza el return, finaliza la función y deja de leer lo que está debajo. Pueden acceder a variables (Scoop) globales y dentro de una función, se pueden establecer scops locales, que no son accesibles desde el exterior.
+* Declaraciones `if`: Son condicionales que se puede traducir como: Si se cumple tal condición, entonces pasa esto. Se pueden anidar en cadena para establecer más de una condición.
+* Valores booleanos (`true`, `false`): Es un operador lógico y solo cumple con dos condiciones true o false.
