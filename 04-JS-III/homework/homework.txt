@@ -1,0 +1,1 @@
+* Arrays: Son una lista de elementos definidas entre corchetes y ordenadas por un subindice. Los elementos pueden ser de cualquier tipo.
